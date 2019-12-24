@@ -31,7 +31,7 @@ jobs:
       - run: |
           docker build -t manjeet-github/circle-ci-example .     
           docker login -u $DOCKER_USER -p $DOCKER_PASS
-          docker push singhma/circle-ci-example
+          docker push manjeet-github/circle-ci-example
   deploy-aws:
     working_directory: ~/app
     docker:
