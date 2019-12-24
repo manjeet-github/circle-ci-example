@@ -1,5 +1,5 @@
 {
-  "name": "ci-comparison-blog",
+  "name": "circle-ci-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndrewBestbier/ci-comparison-blog.git"
+    "url": "git+https://github.com/manjeet-github/circle-ci-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndrewBestbier/ci-comparison-blog/issues"
+    "url": "https://github.com/manjeet-github/circle-ci-example/issues"
   },
-  "homepage": "https://github.com/AndrewBestbier/ci-comparison-blog#readme",
+  "homepage": "https://github.com/manjeet-github/circle-ci-example#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mocha": "^6.2.1"
